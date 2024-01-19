@@ -1,0 +1,6 @@
+@patent{hua2016Phishing,
+    title={一种钓鱼Wi-Fi的检测方法},
+    author={Hua, Cunqing and Weng, Qizhen and Li, Weixin and Jiang, Zhaohui and Yang, Kun}, 
+    number={CN106330935},
+    year={2016}
+}

@@ -1,0 +1,8 @@
+@inproceedings{yu2018Opus,
+  title={Opus: Fair and efficient cache sharing for in-memory data analytics},
+  author={Yu, Yinghao and Wang, Wei and Zhang, Jun and Weng, Qizhen and Letaief, Khaled Ben},
+  booktitle={International Conference on Distributed Computing Systems (ICDCS)},
+  pages={154--164},
+  year={2018},
+  organization={IEEE}
+}

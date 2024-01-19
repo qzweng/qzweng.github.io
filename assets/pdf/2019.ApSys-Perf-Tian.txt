@@ -1,0 +1,7 @@
+@inproceedings{tian2019Towards,
+  title={Towards framework-independent, non-intrusive performance characterization for dataflow computation},
+  author={Tian, Huangshi and Weng, Qizhen and Wang, Wei},
+  booktitle={Proceedings of the 10th ACM SIGOPS Asia-Pacific Workshop on Systems (APSys)},
+  pages={54--60},
+  year={2019}
+}

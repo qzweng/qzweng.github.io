@@ -1,0 +1,8 @@
+@inproceedings{wang2020Metis,
+  title={Metis: Learning to schedule long-running applications in shared container clusters at scale},
+  author={Wang, Luping and Weng, Qizhen and Wang, Wei and Chen, Chen and Li, Bo},
+  booktitle={Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC)},
+  pages={1--17},
+  year={2020},
+  organization={IEEE}
+}
