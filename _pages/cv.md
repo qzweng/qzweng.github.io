@@ -1,8 +1,8 @@
 ---
 layout: cv
 permalink: /cv/
-title: CV
+title: Curriculum Vitae
 nav: true
 nav_order: 4
-cv_pdf: example_pdf.pdf
+cv_pdf: QizhenWeng-CV-20240121-draft.pdf
 ---

@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Systems Researcher in <a href='https://shlab.org.cn'>Shanghai AI Laboratory</a>. Ph.D. in Computer Science and Engineering from <a href='https://cse.hkust.edu.hk'>HKUST</a>.
+subtitle: Systems Researcher in <a href='https://shlab.org.cn'>Shanghai AI Laboratory</a>.
 
 profile:
   align: right
@@ -19,8 +19,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My research interests broadly span AI Infrastructure, Machine Learning Systems, and Cloud Computing, with a special focus on GPU cluster management and **large-scale model training, inference, and fine-tuning**.
+
+I joined Shanghai AI Laboratory right after receiving the Ph.D. degree (2022) in [Computer Science and Engineering](https://cse.ust.hk) from [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), supervised by Prof. [Wei Wang](https://www.cse.ust.hk/~weiwa/). I had been a Research Intern (2020) on cluster management in Alibaba for over two years. Before that, I obtained the B.Eng. degree (2017) from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/).
+
+<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
