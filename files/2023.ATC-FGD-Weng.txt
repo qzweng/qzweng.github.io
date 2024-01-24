@@ -1,0 +1,12 @@
+@inproceedings{weng2023FGD,
+    title = {Beware of Fragmentation: Scheduling {GPU-Sharing} Workloads with Fragmentation Gradient Descent},
+    author = {Weng, Qizhen and Yang, Lingyun and Yu, Yinghao and Wang, Wei and Tang, Xiaochuan and Yang, Guodong and Zhang, Liping},
+    booktitle = {2023 {USENIX} Annual Technical Conference (ATC)},
+    publisher = {{USENIX} Association},
+    year = {2023},
+    month = jul,
+    isbn = {978-1-939133-35-9},
+    address = {Boston, MA},
+    pages = {995--1008},
+    url = {https://www.usenix.org/conference/atc23/presentation/weng},
+}

@@ -1,0 +1,7 @@
+@inproceedings{weng2022MLaaS,
+  title = {{{MLaaS}} in the Wild: {{Workload}} Analysis and Scheduling in {{Large-Scale}} Heterogeneous {{GPU}} Clusters},
+  author={Weng, Qizhen and Xiao, Wencong and Yu, Yinghao and Wang, Wei and Wang, Cheng and He, Jian and Li, Yong and Zhang, Liping and Lin, Wei and Ding, Yu},
+  booktitle={19th USENIX Symposium on Networked Systems Design and Implementation (NSDI)},
+  pages={945--960},
+  year={2022}
+}

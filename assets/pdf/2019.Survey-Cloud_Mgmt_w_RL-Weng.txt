@@ -1,0 +1,6 @@
+@article{weng2019Cloud,
+  title={Cloud management with reinforcement learning},
+  author={Weng, Qizhen},
+  url={https://cse.hkust.edu.hk/pg/defenses/S19/qwengaa-08-05-2019.html},
+  year={2019},
+}

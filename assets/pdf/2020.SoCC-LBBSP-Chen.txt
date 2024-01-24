@@ -1,0 +1,7 @@
+@inproceedings{chen2020Semi,
+  title={Semi-dynamic load balancing: efficient distributed learning in non-dedicated environments},
+  author={Chen, Chen and Weng, Qizhen and Wang, Wei and Li, Baochun and Li, Bo},
+  booktitle={Proceedings of ACM Symposium on Cloud Computing (SoCC)},
+  pages={431--446},
+  year={2020}
+}

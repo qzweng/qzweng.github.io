@@ -1,0 +1,7 @@
+@article{chen2021Accelerating,
+  title={Accelerating Distributed Learning in Non-Dedicated Environments},
+  author={Chen, Chen and Weng, Qizhen and Wang, Wei and Li, Baochun and Li, Bo},
+  journal={IEEE Transactions on Cloud Computing (TCC)},
+  year={2021},
+  publisher={IEEE}
+}

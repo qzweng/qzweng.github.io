@@ -1,0 +1,7 @@
+@inproceedings{chen2018Fast,
+  title={Fast distributed deep learning via worker-adaptive batch sizing},
+  author={Chen, Chen and Weng, Qizhen and Wang, Wei and Li, Baochun and Li, Bo},
+  booktitle={Proceedings of the ACM Symposium on Cloud Computing (SoCC)},
+  pages={521--521},
+  year={2018}
+}

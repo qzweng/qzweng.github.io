@@ -1,0 +1,7 @@
+@inproceedings{zhang2022workload,
+  title={Workload consolidation in {Alibaba} clusters: the good, the bad, and the ugly},
+  author={Zhang, Yongkang and Yu, Yinghao and Wang, Wei and Chen, Qiukai and Wu, Jie and Zhang, Zuowei and Zhong, Jiang and Ding, Tianchen and Weng, Qizhen and Yang, Lingyun and Wang, Cheng and He, Jian and Yang, Guodong and Zhang, Liping},
+  booktitle={Proceedings of ACM Symposium on Cloud Computing (SoCC)},
+  pages={210--225},
+  year={2022}
+}
