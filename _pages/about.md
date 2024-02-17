@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Systems Researcher in <a href='https://shlab.org.cn'>Shanghai AI Laboratory</a>.
+subtitle: Systems Researcher at <a href='https://shlab.org.cn'>Shanghai AI Laboratory</a>. Ph.D. from <a href='https://cse.hkust.edu.hk/'>HKUST</a>.
 
 profile:
   align: right
@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 My research interests broadly span AI Infrastructure, Machine Learning Systems, and Cloud Computing, with a special focus on GPU cluster management and **large-scale model training, inference, and fine-tuning**.
 
-I joined Shanghai AI Laboratory after receiving the Ph.D. degree (2022) in [Computer Science and Engineering](https://cse.ust.hk) from [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), supervised by Prof. [Wei Wang](https://www.cse.ust.hk/~weiwa/). I had been a Research Intern (2020) on cluster management in Alibaba for over two years. Before that, I obtained the B.Eng. degree (2017) from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/).
+I joined Shanghai AI Laboratory after receiving the Ph.D. degree (2022) in Computer Science and Engineering from [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), supervised by Prof. [Wei Wang](https://www.cse.ust.hk/~weiwa/). I had been a Research Intern (2020) on cluster management in [Alibaba](https://www.alibabagroup.com/en-US) for over two years. Before that, I obtained the B.Eng. degree (2017) from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) and studied (2015) in [UC Berkeley](https://www.berkeley.edu/).
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
