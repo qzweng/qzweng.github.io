@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Systems Researcher at <a href='https://shlab.org.cn'>Shanghai AI Laboratory</a>. Ph.D. from <a href='https://cse.hkust.edu.hk/'>HKUST</a>.
+subtitle: Systems Researcher. Ph.D. from <a href='https://cse.hkust.edu.hk/'>HKUST</a>.
 
 profile:
   align: right

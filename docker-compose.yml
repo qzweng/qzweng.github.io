@@ -1,10 +1,10 @@
-version: "3"
+# version: "3"
 # this file uses prebuilt image in dockerhub
 services:
   jekyll:
-    image: amirpourmand/al-folio
+    image: amirpourmand/al-folio:v0.11.0
     container_name: al-folio-website
-    command: bash -c "
+    command: bash -c "gem install jekyll-pdf-embed jekyll-diagrams &&
       rm -f Gemfile.lock
       && bundler exec jekyll serve --watch --port=8080 --host=0.0.0.0 --livereload --verbose --trace"
     ports:
