@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Systems Researcher. Ph.D. from <a href='https://cse.hkust.edu.hk/'>HKUST</a>.
+subtitle: AI Infra Team Lead. Research Scientist. Ph.D. in CSE from <a href='https://cse.hkust.edu.hk/'>HKUST</a>.
 
 profile:
   align: right
@@ -19,9 +19,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My research interests broadly span AI Infrastructure, Machine Learning Systems, and Cloud Computing, with a special focus on GPU cluster management and **large-scale model training, inference, and fine-tuning**.
+My research interests broadly span AI Infrastructure, Machine Learning Systems, and Cloud Computing, with a special focus on **GPU cluster optimization** and **large-scale model training, inference, and fine-tuning**.
 
-I joined Shanghai AI Laboratory after receiving the Ph.D. degree (2022) in Computer Science and Engineering from [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), supervised by Prof. [Wei Wang](https://www.cse.ust.hk/~weiwa/). I had been a Research Intern (2020) on cluster management in [Alibaba](https://www.alibabagroup.com/en-US) for over two years. Before that, I obtained the B.Eng. degree (2017) from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) and studied (2015) in [UC Berkeley](https://www.berkeley.edu/).
+I have been leading the AI Infra team at the Institute of Artificial Intelligence, China Telecom ([TeleAI](https://www.linkedin.com/company/the-institute-of-artificial-intelligence-china-telecom-teleai/)) since 2024. Before that, I joined [Shanghai AI Laboratory](https://www.shlab.org.cn/) in 2023 after earning my Ph.D. in Computer Science and Engineering from [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) in 2022, where I was advised by Prof. [Wei Wang](https://www.cse.ust.hk/~weiwa/). As a Research Intern at [Alibaba](https://www.alibabagroup.com/en-US), I worked on cluster management for over two years (2020). I hold a B.Eng. degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) and also spent time studying at [UC Berkeley](https://www.berkeley.edu/) in 2015.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
