@@ -19,9 +19,18 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My research interests broadly span AI Infrastructure, Machine Learning Systems, and Cloud Computing, with a special focus on **GPU cluster optimization** and **large-scale model training, inference, and fine-tuning**.
+My research interests encompass AI Infrastructure, Machine Learning Systems, and Cloud Computing, with a particular emphasis on **enhancing GPU cluster efficiency** and **optimizing training performance for large-scale generative models**, such as large language models (LLMs), multimodal LLMs (MLLMs), and diffusion transformers (DiTs).
 
-I have been leading the AI Infra team at the Institute of Artificial Intelligence, China Telecom ([TeleAI](https://www.linkedin.com/company/the-institute-of-artificial-intelligence-china-telecom-teleai/)) since 2024. Before that, I joined [Shanghai AI Laboratory](https://www.shlab.org.cn/) in 2023 after earning my Ph.D. in Computer Science and Engineering from [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) in 2022, where I was advised by Prof. [Wei Wang](https://www.cse.ust.hk/~weiwa/). As a Research Intern at [Alibaba](https://www.alibabagroup.com/en-US), I worked on cluster management for over two years (2020). I hold a B.Eng. degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) and also spent time studying at [UC Berkeley](https://www.berkeley.edu/) in 2015.
+Since 2024, I have been **leading the AI Infra Team** at the Institute of Artificial Intelligence, China Telecom ([TeleAI](https://www.linkedin.com/company/the-institute-of-artificial-intelligence-china-telecom-teleai/)), where I oversee initiatives to advance AI system capabilities. Prior to this, I joined the [Shanghai AI Laboratory](https://www.shlab.org.cn/) in 2022 as a Systems Researcher, contributing to the systems for **[large language model](https://www.shlab.org.cn/news/5443847) training and inference**. Earlier, I gained valuable experience as a Research Intern at [Alibaba Cloud & Alibaba Group](https://www.alibabagroup.com/en-US), where I focused on **GPU cluster management and AI job scheduling** for over two years, beginning in 2020.
+
+I received my Ph.D. in Computer Science and Engineering from [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) in 2022, under the guidance of Prof. [Wei Wang](https://www.cse.ust.hk/~weiwa/). I also hold a B.Eng. degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) in 2017 and enriched my academic journey with a study period at [UC Berkeley](https://www.berkeley.edu/) in 2015.
+
+## Awards
+- [Young Elite Scientists Sponsorship Program](https://www.cast.org.cn/xw/tzgg/ZZRC/art/2025/art_e945c835d8b44d6fa2759ea17fad05e1.html), CAST, 2025: for AI development tools and infrastructure
+- [Hong Kong PhD Fellowship Scheme](https://www.ugc.edu.hk/eng/rgc/funding_opport/hkpfs/) (HKPFS), RGC of HK, 2017: awarded to 231 top students worldwide
+- [Shanghai Outstanding Graduates](https://xsb.seiee.sjtu.edu.cn/xsb/info/12484.htm), SJTU, 2017: awarded to top 3% students in the college
+- [Cyber-Security Scholarship](http://www.cidf.net/2016-10/30/c_1119813138.htm), CIDF, 2016: awarded to 1% students in the major
+
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

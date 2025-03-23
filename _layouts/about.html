@@ -54,12 +54,6 @@ layout: default
             {%- include latest_posts.html %}
           {%- endif %}
 
-          <!-- Selected papers -->
-          {% if page.selected_papers -%}
-            <h2>Selected Publications (<a href="{{ '/publications/' | relative_url }}" style="color: inherit;"><u>Full</u></a>)</h2>
-            {%- include selected_papers.html %}
-          {%- endif %}
-
           <!-- Social -->
           {%- if page.social %}
             <div class="social">
@@ -70,9 +64,17 @@ layout: default
               <div class="contact-note">
                 {{ site.contact_note }}
               </div>
-
+              <br>
+              <br>
             </div>
           {%- endif %}
+
+          <!-- Selected papers -->
+          {% if page.selected_papers -%}
+            <h2>Selected Publications (<a href="{{ '/publications/' | relative_url }}" style="color: inherit;"><u>Full List</u></a>)</h2>
+            {%- include selected_papers.html %}
+          {%- endif %}
+
         </article>
 
 </div>
