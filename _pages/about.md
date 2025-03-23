@@ -26,9 +26,10 @@ Since 2024, I have been **leading the AI Infra Team** at the Institute of Artifi
 I received my Ph.D. in Computer Science and Engineering from [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) in 2022, under the guidance of Prof. [Wei Wang](https://www.cse.ust.hk/~weiwa/). I also hold a B.Eng. degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) in 2017 and enriched my academic journey with a study period at [UC Berkeley](https://www.berkeley.edu/) in 2015.
 
 ## Awards
+
 - [Young Elite Scientists Sponsorship Program](https://www.cast.org.cn/xw/tzgg/ZZRC/art/2025/art_e945c835d8b44d6fa2759ea17fad05e1.html), CAST, 2025: for AI development tools and infrastructure
-- [Hong Kong PhD Fellowship Scheme](https://www.ugc.edu.hk/eng/rgc/funding_opport/hkpfs/) (HKPFS), RGC of HK, 2017: awarded to 231 top students worldwide
-- [Shanghai Outstanding Graduates](https://xsb.seiee.sjtu.edu.cn/xsb/info/12484.htm), SJTU, 2017: awarded to top 3% students in the college
+- [Hong Kong PhD Fellowship Scheme](https://www.ugc.edu.hk/eng/rgc/funding_opport/hkpfs/), RGC of HK, 2017: awarded to 231 top students worldwide
+- [Shanghai Outstanding Graduates](https://xsb.seiee.sjtu.edu.cn/xsb/info/12484.htm), SH Gov., 2017: awarded to top 3% students in the college
 - [Cyber-Security Scholarship](http://www.cidf.net/2016-10/30/c_1119813138.htm), CIDF, 2016: awarded to 1% students in the major
 
 
