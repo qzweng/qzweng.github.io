@@ -21,9 +21,9 @@ social: true  # includes social icons at the bottom of the page
 
 My research interests encompass AI Infrastructure, Machine Learning Systems, and Cloud Computing, with a particular emphasis on **enhancing GPU cluster efficiency** and **optimizing training performance for large-scale generative models**, such as large language models (LLMs), multimodal LLMs (MLLMs), and diffusion transformers (DiTs).
 
-Since 2024, I have been leading the **AI Infrastructure Research Center** at the Institute of Artificial Intelligence ([TeleAI](https://www.linkedin.com/company/the-institute-of-artificial-intelligence-china-telecom-teleai/)), [China Telecom](https://www.chinatelecom-h.com/en/global/home.php), where I oversee initiatives to advance AI system capabilities.
-Prior to this, I joined the [Shanghai AI Laboratory](https://www.shlab.org.cn/) in 2022 as a Systems Researcher, contributing to the systems for **[large language model](https://www.shlab.org.cn/news/5443847) training and inference**.
-Earlier, I gained valuable experience as a Research Intern at [Alibaba Cloud & Alibaba Group](https://www.alibabagroup.com/en-US), where I focused on **GPU cluster management and AI job scheduling** for over two years, beginning in 2020.
+(1) Since 2024, I have been **leading the AI Infrastructure Research Center** at the Institute of Artificial Intelligence ([TeleAI](https://www.linkedin.com/company/the-institute-of-artificial-intelligence-china-telecom-teleai/)), [China Telecom](https://www.chinatelecom-h.com/en/global/home.php), where I oversee initiatives to advance AI system capabilities.
+(2) Prior to this, I joined the [Shanghai AI Laboratory](https://www.shlab.org.cn/) in 2022 as a Systems Researcher, contributing to the systems for **large language model training and inference**.
+(3) Earlier, I gained valuable experience as a Research Intern at [Alibaba Cloud & Alibaba Group](https://www.alibabagroup.com/en-US), where I focused on **GPU cluster management and AI job scheduling** for over two years, beginning in 2020.
 
 I received my Ph.D. in Computer Science and Engineering from [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) in 2022, under the guidance of Prof. [Wei Wang](https://www.cse.ust.hk/~weiwa/). I also hold a B.Eng. degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) in 2017 and enriched my academic journey with a study period at [UC Berkeley](https://www.berkeley.edu/) in 2015.
 

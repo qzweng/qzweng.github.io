@@ -6,4 +6,4 @@ inline: True
 related_posts: false
 ---
 
-♻️**Invited Keynote Speaker at AI for Good Global Submmit**: I am honored to deliver [Keynote speech](https://aiforgood.itu.int/speaker/qizhen-weng/) on <u>Sustainable AI Solutions</u> at the [AI for Good Global Summit](https://aiforgood.itu.int/summit25/) 8-11 July at Palexpo in Geneva, hosted by the UN @ITU. This event is a key platform for sharing innovative AI applications and fostering global collaborations, a fantastic opportunity to connect with some of the brightest minds in AI.
+♻️**Invited Keynote Speaker at AI for Good Global Submmit**: I will be delivering a [Keynote speech](https://aiforgood.itu.int/speaker/qizhen-weng/) on AI Solutions in China Telecom at the [AI for Good Global Summit](https://aiforgood.itu.int/summit25/) 8-11 July in Geneva, hosted by the ITU of the United Nations. Join us as we discuss how AI can shape a sustainable future!
