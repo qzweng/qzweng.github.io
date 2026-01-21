@@ -332,7 +332,20 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
         <div class="author">
         
 
-        </div>
+        Yabo Chen, Yuanzhi Liang, Jiepeng Wang, Tingxi Chen, Junfei Cheng, Zixiao Gu, Yuyang Huang, Zicheng Jiang, Wei Li, Tian Li, and
+          <span class="more-authors" title="click to view 17 more authors" onclick="
+                var element = $(this);
+                element.attr('title', '');
+                var more_authors_text = element.text() == '17 more authors' ? 'Weichen Li, Zuoxin Li, Guangce Liu, Jialun Liu, Junqi Liu, Haoyuan Wang, Qizhen Weng, Xuan’er Wu, Xunzhi Xiang, Xiaoyan Yang, Xin Zhang, Shiwen Zhang, Junyu Zhou, Chengcheng Zhou, Haibin Huang, Chi Zhang, Xuelong Li' : '17 more authors';
+                var cursorPosition = 0;
+                var textAdder = setInterval(function(){
+                  element.text(more_authors_text.substring(0, cursorPosition + 1));
+                  if (++cursorPosition == more_authors_text.length){
+                    clearInterval(textAdder);
+                  }
+              }, '0');
+              ">17 more authors</span>
+</div>
 
         <!-- Journal/Book title and date -->
         
@@ -360,7 +373,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
           <div class="bibtex hidden">
             <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">chen2025TeleWorld</span><span class="p">,</span>
   <span class="na">title</span> <span class="p">=</span> <span class="s">{{TeleWorld}: Towards Dynamic Multimodal Synthesis with a 4D World Model}</span><span class="p">,</span>
-  <span class="na">author</span> <span class="p">=</span> <span class="s">{}</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">{Chen, Yabo and Liang, Yuanzhi and Wang, Jiepeng and Chen, Tingxi and Cheng, Junfei and Gu, Zixiao and Huang, Yuyang and Jiang, Zicheng and Li, Wei and Li, Tian and Li, Weichen and Li, Zuoxin and Liu, Guangce and Liu, Jialun and Liu, Junqi and Wang, Haoyuan and Weng, Qizhen and Wu, Xuan'er and Xiang, Xunzhi and Yang, Xiaoyan and Zhang, Xin and Zhang, Shiwen and Zhou, Junyu and Zhou, Chengcheng and Huang, Haibin and Zhang, Chi and Li, Xuelong}</span><span class="p">,</span>
   <span class="na">journal</span> <span class="p">=</span> <span class="s">{arXiv preprint arXiv:2601.00051}</span><span class="p">,</span>
   <span class="na">publisher</span> <span class="p">=</span> <span class="s">{arXiv}</span><span class="p">,</span>
   <span class="na">year</span> <span class="p">=</span> <span class="s">{2025}</span><span class="p">,</span>
