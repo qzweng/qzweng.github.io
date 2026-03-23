@@ -8,4 +8,8 @@ _site
 .tweet-cache
 Gemfile.lock
 vendor
-
+# cache
+assets/pdf/*.md
+2026.SIGMETRICS-Arachne-Yu.pdf
+2026.HPDC-ApolloTrain-Wang.pdf
+2026.ACL-VeRPO-Wang.pdf
