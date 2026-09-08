@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "♻️Invited Speech at AI4Good Global Summit on Sustainable AI Solutions in China Telecom"
+title: "♻️Keynote at AI for Good Global Summit on China Telecom AI Flow"
 date: 2025-06-15 00:00:00-0000
 inline: True
 related_posts: false
 ---
 
-♻️**Invited Keynote Speaker at AI for Good Global Submmit**: I will be delivering a [Keynote speech](https://aiforgood.itu.int/speaker/qizhen-weng/) on AI Solutions in China Telecom at the [AI for Good Global Summit](https://aiforgood.itu.int/summit25/) 8-11 July in Geneva, hosted by the ITU of the United Nations. Join us as we discuss how AI can shape a sustainable future!
+♻️**AI for Good Global Summit**: I was invited as a [keynote speaker](https://aiforgood.itu.int/speaker/qizhen-weng/) at the [AI for Good Global Summit](https://aiforgood.itu.int/summit25/) (8–11 July 2025, Geneva, ITU).
+I presented “[China Telecom drives ubiquitous intelligence through AI Flow](https://aiforgood.itu.int/china-telecom-drives-ubiquitous-intelligence-through-ai-flow/)”, on bridging devices, edge, and cloud for ubiquitous intelligence.

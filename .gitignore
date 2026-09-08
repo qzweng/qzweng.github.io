@@ -16,6 +16,9 @@ output/playwright/
 test-results/
 vendor
 
+# Unpublished manuscripts
+assets/pdf/2026.HPDC-ApolloTrain-Wang.pdf
+
 # Python bytecode from bin/ helper scripts
 __pycache__/
 *.pyc

@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: AI Infra Team Lead. Research Scientist. Ph.D. in CSE from <a href='https://cse.hkust.edu.hk/'>HKUST</a>.
+subtitle: Large Model System Researcher. Ph.D. in CSE from <a href='https://cse.hkust.edu.hk/'>HKUST</a>.
 
 profile:
   align: right
@@ -15,7 +15,7 @@ social: true
 announcements:
   enabled: true
   scrollable: true
-  limit: 5
+  limit: 6
 
 latest_posts:
   enabled: false

@@ -1,4 +1,131 @@
-# Citation counts fetched from Google Scholar (updated by bin/update_scholar_citations.py / CI).
 metadata:
-  last_updated: ''
-papers: {}
+  last_updated: '2026-09-08'
+papers:
+  DRK_fx4AAAAJ:0EnyYjriUFMC:
+    citations: 4
+    title: 'Teleboost: A systematic alignment framework for high-fidelity, controllable, and robust video generation'
+    year: '2026'
+  DRK_fx4AAAAJ:2osOgNQ5qMEC:
+    citations: 59
+    title: 'Semi-dynamic load balancing: Efficient distributed learning in non-dedicated environments'
+    year: '2020'
+  DRK_fx4AAAAJ:3fE2CSJIrl8C:
+    citations: 2
+    title: 'Efficient data passing for serverless inference workflows: A GPU-centric approach'
+    year: '2026'
+  DRK_fx4AAAAJ:5nxA0vEk-isC:
+    citations: 1
+    title: 'CALVO: Improve Serving Efficiency for LLM Inferences with Intense Network Demands'
+    year: '2026'
+  DRK_fx4AAAAJ:8k81kl-MbHgC:
+    citations: 1
+    title: 'Swift-SVD: Theoretical Optimality Meets Practical Efficiency in Low-Rank LLM Compression'
+    year: '2026'
+  DRK_fx4AAAAJ:9yKSN-GCB0IC:
+    citations: 68
+    title: 'Metis: Learning to schedule long-running applications in shared container clusters at scale'
+    year: '2020'
+  DRK_fx4AAAAJ:IjCSPb-OGe4C:
+    citations: 40
+    title: 'Workload consolidation in alibaba clusters: the good, the bad, and the ugly'
+    year: '2022'
+  DRK_fx4AAAAJ:KlAtU1dfN6UC:
+    citations: 8
+    title: 'Tele-omni: a unified multimodal framework for video generation and editing'
+    year: '2026'
+  DRK_fx4AAAAJ:LkGwnXOMwfcC:
+    citations: 1
+    title: 'Towards Dynamic KV-Cache Compression: Fine-Grained Evaluation of Key and Value Ranks in LLMs'
+    year: '2025'
+  DRK_fx4AAAAJ:MXK_kJrjxJIC:
+    citations: 1
+    title: 'Suika: Efficient and High-quality Re-scheduling of 3D-parallelized LLM Training Jobs in Shared Clusters'
+    year: '2026'
+  DRK_fx4AAAAJ:Se3iqnhoufwC:
+    citations: 3
+    title: 'Kv-core: Benchmarking data-dependent low-rank compressibility of kv-caches in llms'
+    year: '2026'
+  DRK_fx4AAAAJ:Tyk-4Ss8FVUC:
+    citations: 41
+    title: 'Caraserve: Cpu-assisted and rank-aware lora serving for generative llm inference'
+    year: '2024'
+  DRK_fx4AAAAJ:ULOm3_A8WrAC:
+    citations: 3
+    title: 'GN0: Toward a Unified Paradigm for Generation, Evaluation, and Policy Learning in Visual-Language Navigation'
+    year: '2026'
+  DRK_fx4AAAAJ:UeHWp8X0CEIC:
+    citations: 650
+    title: 'MLaaS in the Wild: Workload Analysis and Scheduling in Large-Scale Heterogeneous GPU Clusters'
+    year: '2022'
+  DRK_fx4AAAAJ:UebtZRa9Y70C:
+    citations: 6
+    title: 'Janus: Disaggregating Attention and Experts for Scalable MoE Inference'
+    year: '2025'
+  DRK_fx4AAAAJ:WF5omc3nYNoC:
+    citations: 23
+    title: GPU-Disaggregated Serving for Deep Learning Recommendation Models at Scale
+    year: '2025'
+  DRK_fx4AAAAJ:Y0pCki6q_DkC:
+    citations: 756
+    title: Internlm2 technical report
+    year: '2024'
+  DRK_fx4AAAAJ:YOwf2qJgpHMC:
+    citations: 0
+    title: 'Arachne: Orchestrating Cascades for Efficient Text-to-Video Model Training'
+    year: '2026'
+  DRK_fx4AAAAJ:YsMSGLbcyi4C:
+    citations: 93
+    title: 'Efficient training of large language models on distributed infrastructures: a survey'
+    year: '2026'
+  DRK_fx4AAAAJ:Zph67rFs4hoC:
+    citations: 0
+    title: 'Mosaic: Towards Efficient Training of Multimodal Models with Spatial Resource Multiplexing'
+    year: '2026'
+  DRK_fx4AAAAJ:_FxGoFyzp5QC:
+    citations: 0
+    title: Efficient Unified Caching for Accelerating Heterogeneous AI Workloads
+    year: '2025'
+  DRK_fx4AAAAJ:_kc_bZDykSQC:
+    citations: 0
+    title: Towards Efficient Serving of Network-intensive LLM Inferences
+    year: '2026'
+  DRK_fx4AAAAJ:d1gkVwhDpl0C:
+    citations: 36
+    title: Fast distributed deep learning via worker-adaptive batch sizing
+    year: '2018'
+  DRK_fx4AAAAJ:eQOLeE2rZwMC:
+    citations: 0
+    title: Optimize Resource Scheduling in Multi-Tenant Clusters at Scale
+    year: '2022'
+  DRK_fx4AAAAJ:hqOjcs7Dif8C:
+    citations: 10
+    title: 'Teleworld: Towards dynamic multimodal synthesis with a 4d world model'
+    year: '2025'
+  DRK_fx4AAAAJ:kNdYIx-mwKoC:
+    citations: 3
+    title: 'Computation-bandwidth-memory trade-offs: a unified paradigm for AI infrastructure'
+    year: '2026'
+  DRK_fx4AAAAJ:qjMakFHDy7sC:
+    citations: 11
+    title: Accelerating distributed learning in non-dedicated environments
+    year: '2021'
+  DRK_fx4AAAAJ:roLk4NBRz8UC:
+    citations: 5
+    title: 'Rethinking data in nl2sql: a survey of what we have and what we expect'
+    year: '2025'
+  DRK_fx4AAAAJ:u-x6o8ySG0sC:
+    citations: 4
+    title: Towards framework-independent, non-intrusive performance characterization for dataflow computation
+    year: '2019'
+  DRK_fx4AAAAJ:u5HHmVD_uO8C:
+    citations: 14
+    title: 'Opus: Fair and efficient cache sharing for in-memory data analytics'
+    year: '2018'
+  DRK_fx4AAAAJ:ufrVoPGSRksC:
+    citations: 19
+    title: 'Toppings: CPU-Assisted, Rank-Aware Adapter Serving for LLM Inference'
+    year: '2025'
+  DRK_fx4AAAAJ:zYLM7Y9cAGgC:
+    citations: 170
+    title: 'Beware of Fragmentation: Scheduling GPU-Sharing Workloads with Fragmentation Gradient Descent'
+    year: '2023'
