@@ -1,0 +1,4 @@
+# Citation counts fetched from Google Scholar (updated by bin/update_scholar_citations.py / CI).
+metadata:
+  last_updated: ''
+papers: {}

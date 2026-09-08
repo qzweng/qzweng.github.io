@@ -1,43 +1,100 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Qizhen Weng 翁祈桢
-    - name: Position
-      value: Systems Researcher
-    - name: Office
-      value: 15F-A, Building L1, Shanghai AI Laboratory, Xuhui District, Shanghai, China
+cv:
+  name: Qizhen Weng 翁祈桢
+  label: AI Infra Team Lead / Research Scientist
+  email: qwengaa@cse.ust.hk
+  location: Shanghai, China
+  image: ""
+  summary: AI Infrastructure, Machine Learning Systems, and Cloud Computing — enhancing GPU cluster efficiency and optimizing training performance for large-scale generative models.
 
-- title: Education
-  type: time_table
-  contents:
-    - title: Doctor of Philosophy
-      institution: The Hong Kong University of Science and Technology
-      year: Sep. 2017 - Dec. 2022
-      description:
-        - <a href="https://cerg1.ugc.edu.hk/hkpfs/index.html">Hong Kong PhD Fellowship Scheme Awardee</a>
-        - "Major: Computer Science and Engineering"
-        - "Supervisor: Prof. Wei Wang"
-        - "GPA: 4.2/4.3"
-    - title: Exchange Student
-      institution: University of California, Berkeley
-      year: Jun. 2015 - Aug. 2015
-      description:
-        - "GPA: 4.0/4.0"
-    - title: Bachelor of Engineering
-      institution: Shanghai Jiao Tong University
-      year: Sep. 2013 - Jun. 2017
-      description:
-        - <a href="https://xsb.seiee.sjtu.edu.cn/xsb/info/12484.htm">Shanghai Outstanding Graduates</a>
-        - "Major: Cyber Security"
-        - "GPA: 3.8/4.3"
+  social_networks:
+    - network: GitHub
+      username: qzweng
+    - network: X
+      username: lukeqzweng
+    - network: LinkedIn
+      username: qizhen-weng
+    - network: Google Scholar
+      username: DRK_fx4AAAAJ
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Systems Researcher
-      institution: Shanghai AI Laboratory
-      year: Nov. 2022 - present
-    - title: Research Intern
-      institution: Alibaba CTO Line & Alibaba Cloud
-      year: Jun. 2020 - Oct. 2022
+  sections:
+    Education:
+      - institution: The Hong Kong University of Science and Technology
+        location: Hong Kong
+        url: https://hkust.edu.hk/
+        area: Computer Science and Engineering
+        studyType: Doctor of Philosophy
+        start_date: 2017-09
+        end_date: 2022-12
+        score: "GPA: 4.2/4.3"
+        highlights:
+          - Hong Kong PhD Fellowship Scheme Awardee
+          - "Supervisor: Prof. Wei Wang"
+
+      - institution: University of California, Berkeley
+        location: Berkeley, CA, USA
+        url: https://www.berkeley.edu/
+        area: Exchange Student
+        studyType: Exchange
+        start_date: 2015-06
+        end_date: 2015-08
+        score: "GPA: 4.0/4.0"
+
+      - institution: Shanghai Jiao Tong University
+        location: Shanghai, China
+        url: https://www.sjtu.edu.cn/
+        area: Cyber Security
+        studyType: Bachelor of Engineering
+        start_date: 2013-09
+        end_date: 2017-06
+        score: "GPA: 3.8/4.3"
+        highlights:
+          - Shanghai Outstanding Graduates
+
+    Experience:
+      - company: Institute of Artificial Intelligence (TeleAI), China Telecom
+        position: AI Infra Team Lead / Research Center Lead
+        location: Shanghai, China
+        start_date: 2024
+        end_date: 2026-05
+        summary: Led the AI Infrastructure Research Center; oversaw initiatives to advance AI system capabilities.
+        highlights:
+          - AI infrastructure for large-scale generative models
+
+      - company: Shanghai AI Laboratory
+        position: Systems Researcher
+        location: Shanghai, China
+        start_date: 2022-11
+        end_date: 2024
+        summary: Systems for large language model training and inference.
+
+      - company: Alibaba CTO Line & Alibaba Cloud
+        position: Research Intern
+        location: China
+        start_date: 2020-06
+        end_date: 2022-10
+        summary: GPU cluster management and AI job scheduling.
+
+    Awards:
+      - title: Young Elite Scientists Sponsorship Program
+        date: 2025
+        awarder: CAST
+        url: https://www.cast.org.cn/xw/tzgg/ZZRC/art/2025/art_e945c835d8b44d6fa2759ea17fad05e1.html
+        summary: For AI development tools and infrastructure
+
+      - title: Hong Kong PhD Fellowship Scheme
+        date: 2017
+        awarder: RGC of HK
+        url: https://www.ugc.edu.hk/eng/rgc/funding_opport/hkpfs/
+        summary: Awarded to 231 top students worldwide
+
+      - title: Shanghai Outstanding Graduates
+        date: 2017
+        awarder: Shanghai Government
+        url: https://xsb.seiee.sjtu.edu.cn/xsb/info/12484.htm
+        summary: Awarded to top 3% students in the college
+
+      - title: Cyber-Security Scholarship
+        date: 2016
+        awarder: CIDF
+        url: http://www.cidf.net/2016-10/30/c_1119813138.htm
+        summary: Awarded to 1% students in the major

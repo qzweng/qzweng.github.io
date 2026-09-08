@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Projects
+title: projects
 permalink: /projects/
-description: # A growing collection of your cool projects.
+description:
 nav: true
 nav_order: 2
-# display_categories: [work, fun]
-# horizontal: false
 ---
 
 ## Contributing
@@ -14,7 +12,7 @@ nav_order: 2
 - 💃 [VeRL](https://github.com/verl-project/verl): [PR#2629](https://github.com/verl-project/verl/pull/2629): "[rollout, trainer] feat: Enabling Request Skewness Scheduler towards near-equal generated token in rollout"
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/qzweng/qzweng.github.io/refs/heads/master/assets/img/projects/verl_pr_compare.png"
+    src="{{ '/assets/img/projects/verl_pr_compare.png' | relative_url }}"
     alt="VeRL Enabling Skewness Scheduler Comparison"
     style="max-width: 720px; width: 100%; margin: 1rem 0;"
   />

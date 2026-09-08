@@ -1,27 +1,29 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
 subtitle: AI Infra Team Lead. Research Scientist. Ph.D. in CSE from <a href='https://cse.hkust.edu.hk/'>HKUST</a>.
 
 profile:
   align: right
   image: photo_full.jpg
-  image_circular: false # crops the image to make it circular
-  # address: >
-  #   <p>555 your office number</p>
-  #   <p>123 your address street</p>
-  #   <p>Your City, State 12345</p>
+  image_circular: false
 
-news: true  # includes a list of news items
-latest_posts: false  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+selected_papers: true
+social: true
+
+announcements:
+  enabled: true
+  scrollable: true
+  limit: 5
+
+latest_posts:
+  enabled: false
 ---
 
 My research interests encompass AI Infrastructure, Machine Learning Systems, and Cloud Computing, with a particular emphasis on **enhancing GPU cluster efficiency** and **optimizing training performance for large-scale generative models**, such as large language models (LLMs), multimodal LLMs (MLLMs), and diffusion transformers (DiTs).
 
-(1) Since 2024, I have been **leading the AI Infrastructure Research Center** at the Institute of Artificial Intelligence ([TeleAI](https://www.linkedin.com/company/the-institute-of-artificial-intelligence-china-telecom-teleai/)), [China Telecom](https://www.chinatelecom-h.com/en/global/home.php), where I oversee initiatives to advance AI system capabilities.
+(1) From 2024 to May 2026, I **led the AI Infrastructure Research Center** at the Institute of Artificial Intelligence ([TeleAI](https://www.linkedin.com/company/the-institute-of-artificial-intelligence-china-telecom-teleai/)), [China Telecom](https://www.chinatelecom-h.com/en/global/home.php), where I oversaw initiatives to advance AI system capabilities.
 (2) Prior to this, I joined the [Shanghai AI Laboratory](https://www.shlab.org.cn/) in 2022 as a Systems Researcher, contributing to the systems for **large language model training and inference**.
 (3) Earlier, I gained valuable experience as a Research Intern at [Alibaba Cloud & Alibaba Group](https://www.alibabagroup.com/en-US), where I focused on **GPU cluster management and AI job scheduling** for over two years, beginning in 2020.
 
@@ -33,10 +35,3 @@ I received my Ph.D. in Computer Science and Engineering from [The Hong Kong Univ
 - [Hong Kong PhD Fellowship Scheme](https://www.ugc.edu.hk/eng/rgc/funding_opport/hkpfs/), RGC of HK, 2017: awarded to 231 top students worldwide
 - [Shanghai Outstanding Graduates](https://xsb.seiee.sjtu.edu.cn/xsb/info/12484.htm), SH Gov., 2017: awarded to top 3% students in the college
 - [Cyber-Security Scholarship](http://www.cidf.net/2016-10/30/c_1119813138.htm), CIDF, 2016: awarded to 1% students in the major
-
-
-<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
